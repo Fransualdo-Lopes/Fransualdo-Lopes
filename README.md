@@ -4,10 +4,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fransualdo-Lopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fransualdo-Lopes&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-<div>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">   
-    <i class="devicon-adonisjs-original colori"></i> 
-  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-          
+<div style="display: inline_block"><br>
+   <img align="center" alt="fran" height="30" width="40" src="https://github.com/devicons/devicon/commit/d98a72cb9a6d8e543ddbddc32bac231572349e96"       
 </div>
