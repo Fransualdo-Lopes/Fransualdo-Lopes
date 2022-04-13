@@ -5,5 +5,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fransualdo-Lopes&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-   <img align="center" alt="fran-js" height="30" width="40" src="https://github.com/devicons/devicon/commit/d98a72cb9a6d8e543ddbddc32bac231572349e96"       
+   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/commit/d98a72cb9a6d8e543ddbddc32bac231572349e96"       
 </div>
