@@ -1,10 +1,20 @@
-## <img height="30" src= https://user-images.githubusercontent.com/90012369/163268879-efcbb00b-0e40-4d01-b1d1-9b301483897e.png
-Alô Mundo! Eu sou o Fransualdo Lopes
-<div align="center">
+## Alô Mund🌎! Eu sou o Fransualdo Lopes 🖥️💻
+<div align="left">
   <a href="https://github.com/Fransualdo-Lopes ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fransualdo-Lopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fransualdo-Lopes&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fransualdo-Lopes&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+<div align="right">
   
+</div>
+<img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />  
+        
+<img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
+
+ 
+          
+          
   
   
