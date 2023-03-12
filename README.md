@@ -1,4 +1,4 @@
-## Alô Mund🌎! Eu sou o Fransualdo Lopes, Técnico Analista 🖥️💻
+## Alô Mund🌎! Eu sou o Fransualdo Lopes,  DevOps Deployment🖥️💻
 <div align="center">
   <a href="https://github.com/Fransualdo-Lopes">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Fransualdo-Lopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
