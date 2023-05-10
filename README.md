@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fransualdo-Lopes&layout=compact&langs_count=7&theme=dracula"/>
  </div>
 
-- 🔭 Atualmente estou trabalhando em um projeto da faculdade como DevOps com uma equipe. [Albino Tecnologia - frontend](http://34.85.180.110)[-- backend](http://34.16.131.174/swagger-ui/index.html)
+- 🔭 Atualmente estou cursando Bacharelado de Sistemas de Informação na Universidade Federal Rural da Amazônia(UFRA)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <div align="left">
