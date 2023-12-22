@@ -14,7 +14,7 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <div align="left">
 <a href="https://fb.com/https://www.facebook.com/fransualdoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/fransualdoc" height="30" width="40" /></a>
-<a href="https://instagram.com/fransualdo6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/fransualdo6/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/fc_lopesz6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/fransualdo6/" height="30" width="40" /></a>
 <a href="//api.whatsapp.com/send?phone=5591993057052&text=Ol%C3%A1%20Fransuado%2C%20encontrei%20seu%20contato%20pelo%20GitHub"><img align="center" src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/fransualdolopes/"><img align="center" src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href=mailto:fransualdo.14@gmail.com><img align="center" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
