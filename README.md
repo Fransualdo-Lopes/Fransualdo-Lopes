@@ -33,7 +33,8 @@
 <img align="center" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="center" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="center" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />    
-</div style="display: inline_block">
- 
 
+ 
  ![Snake animation](https://github.com/Fransualdo-Lopes/Fransualdo-Lopes/blob/output/github-contribution-grid-snake.svg)
+
+ </div style="display: inline_block">
