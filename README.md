@@ -1,7 +1,7 @@
 <div align="right"> <img src="https://komarev.com/ghpvc/?username=fransualdo-lopes&label=Profile%20views&color=0e75b6&style=flat" alt="fransualdo-lopes" /> </div>
 
 <h1 align="center">Oi 👋, eu sou Fransualdo Lopes🖥️💻</h1>
-<h3 align="center">Um apaixonado em DevOps, amante de GNU Linux entre outros Sistemas Distribuidos e programador, sempre em constante aprendizado.</h3>
+<h3 align="center">Um apaixonado em DevOps e programação, amante de GNU Linux entre outros Sistemas Distribuidos, sempre em constante aprendizado.</h3>
 
 <div align="center">
   <a href="https://github.com/Fransualdo-Lopes">
@@ -9,7 +9,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fransualdo-Lopes&layout=compact&langs_count=7&theme=dracula"/>
  </div>
 
-- 🔭 Atualmente estou cursando Bacharelado de Sistemas de Informação na Universidade Federal Rural da Amazônia(UFRA)
+- 🔭 Atualmente estou cursando Bacharelado de Sistemas de Informação na Universidade Federal Rural da Amazônia-(UFRA)
+- Iniciei estágio Remoto Na empresa Compass Uol Tecnologia LTDA de forma Remota.
+- Trabalando de forma Presencial na empresa Alternativa Telecom LTDA.
 
 <h3 align="left">Conecte-se comigo:</h3>
 <div align="left">
