@@ -10,8 +10,8 @@
  </div>
 
 - 🔭 Atualmente estou cursando Bacharelado de Sistemas de Informação na Universidade Federal Rural da Amazônia-(UFRA)
-- Iniciei estágio Remoto Na empresa Compass Uol Tecnologia LTDA de forma Remota.
-- Trabalando de forma Presencial na empresa Alternativa Telecom LTDA.
+- Iniciei estágio Remoto na empresa Compass Uol Tecnologia LTDA de forma Remota. (meio período)
+- Trabalho de forma Presencial na empresa Alternativa Telecom LTDA. (meio período)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <div align="left">
