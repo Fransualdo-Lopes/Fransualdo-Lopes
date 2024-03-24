@@ -1,5 +1,5 @@
 <style>
- ul {
+ ul li{
   list-style-type: none;
 }
 </style>
