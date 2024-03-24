@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/Fransualdo-Lopes">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Fransualdo-Lopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fransualdo-Lopes&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Fransualdo-Lopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fransualdo-Lopes&layout=compact&langs_count=7&theme=dracula"/>
  </div>
 <div align="center">
     <ul>
@@ -15,7 +15,7 @@
        Trabalho de forma Presencial na empresa Alternativa Telecom LTDA. (meio período)
     </ul>
 </div>
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="center">Conecte-se comigo:</h3>
 <div align="center">
 <a href="https://fb.com/https://www.facebook.com/fransualdoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/fransualdoc" height="30" width="40" /></a>
 <a href="https://www.instagram.com/fc_lopesz6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/fransualdo6/" height="30" width="40" /></a>
@@ -24,7 +24,7 @@
 <a href=mailto:fransualdo.14@gmail.com><img align="center" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-<h3 align="left">Algumas ferramentas que utilizo:</h3>
+<h3 align="center">Algumas ferramentas que utilizo:</h3>
 <div class="tools">
   <p align="center"> 
     <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/></a> 
@@ -44,7 +44,7 @@
   </p>
 </div>
 
-<h3 align="left">Linguagens que mais utilizo:</h3>
+<h3 align="center">Linguagens que mais utilizo:</h3>
 <div align="center"> 
   <img align="center" width="4%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"/> 
   <img align="center" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
