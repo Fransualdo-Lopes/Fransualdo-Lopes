@@ -11,9 +11,9 @@
  </div>
 <div align="center">
     <ul>
-      <li display-items:none>🔭 Atualmente estou cursando Bacharelado de Sistemas de Informação na Universidade Federal Rural da Amazônia-(UFRA)</li>
-      <li>Iniciei estágio Remoto na empresa Compass Uol Tecnologia LTDA de forma Remota. (meio período)</li>
-      <li>Trabalho de forma Presencial na empresa Alternativa Telecom LTDA. (meio período)</li>
+       🔭 Atualmente estou cursando Bacharelado de Sistemas de Informação na Universidade Federal Rural da Amazônia-(UFRA)
+       Iniciei estágio Remoto na empresa Compass Uol Tecnologia LTDA de forma Remota. (meio período)
+       Trabalho de forma Presencial na empresa Alternativa Telecom LTDA. (meio período)
     </ul>
 </div>
 <h3 align="left">Conecte-se comigo:</h3>
