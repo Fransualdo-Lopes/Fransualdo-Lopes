@@ -1,7 +1,7 @@
 <div align="right"> <img src="https://komarev.com/ghpvc/?username=fransualdo-lopes&label=Profile%20views&color=0e75b6&style=flat" alt="fransualdo-lopes" /> </div>
 
-<h1 align="center">Oi 👋, eu sou Fransualdo Lopes🖥️💻</h1>
-<h3 align="center">Um apaixonado em DevOps e programação, amante de GNU Linux entre outros Sistemas Distribuidos, sempre em constante aprendizado.</h3>
+<h1 align="center">Oi 👋, eu sou Fransualdo Lopes.🖥️💻</h1>
+<h3 align="center">Gosto de DevOps e programação.</h3>
 
 <div align="center">
   <a href="https://github.com/Fransualdo-Lopes">
