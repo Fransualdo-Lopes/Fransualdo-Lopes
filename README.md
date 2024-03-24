@@ -17,7 +17,7 @@
     </ul>
 </div>
 <h3 align="left">Conecte-se comigo:</h3>
-<div align="left">
+<div align="justify">
 <a href="https://fb.com/https://www.facebook.com/fransualdoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/fransualdoc" height="30" width="40" /></a>
 <a href="https://www.instagram.com/fc_lopesz6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/fransualdo6/" height="30" width="40" /></a>
 <a href="//api.whatsapp.com/send?phone=5591993057052&text=Ol%C3%A1%20Fransuado%2C%20encontrei%20seu%20contato%20pelo%20GitHub"><img align="center" src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
