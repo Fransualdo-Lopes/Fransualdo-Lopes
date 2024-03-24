@@ -46,14 +46,14 @@
 
 <h3 align="left">Linguagens que mais utilizo:</h3>
 <div align="left"> 
-<img align="center" width="4%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" /> 
-<img align="center" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="center" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="center" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img align="center" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="center" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="center" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />    
-</div style="display: inline_block">
+<img align="center" width="4%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"/> 
+<img align="center" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img align="center" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+<img align="center" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="center" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="center" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="center" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>    
+</div>
 
 
 <!-- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
