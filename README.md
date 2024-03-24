@@ -9,10 +9,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fransualdo-Lopes&layout=compact&langs_count=7&theme=dracula"/>
  </div>
 <div align="center">
-    <ul>
-      <li align="center">🔭 Atualmente estou cursando Bacharelado de Sistemas de Informação na Universidade Federal Rural da Amazônia-(UFRA)</li>
-      <li align="center">Iniciei estágio Remoto na empresa Compass Uol Tecnologia LTDA de forma Remota. (meio período)</li>
-      <li align="center">Trabalho de forma Presencial na empresa Alternativa Telecom LTDA. (meio período)</li>
+    <ul align="center" list-style-type: none>
+      <li>🔭 Atualmente estou cursando Bacharelado de Sistemas de Informação na Universidade Federal Rural da Amazônia-(UFRA)</li>
+      <li>Iniciei estágio Remoto na empresa Compass Uol Tecnologia LTDA de forma Remota. (meio período)</li>
+      <li>Trabalho de forma Presencial na empresa Alternativa Telecom LTDA. (meio período)</li>
     </ul>
 </div>
 <h3 align="left">Conecte-se comigo:</h3>
