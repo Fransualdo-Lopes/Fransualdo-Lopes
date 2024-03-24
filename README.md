@@ -1,12 +1,8 @@
-<style>
- ul li{
-  list-style-type: none;
-}
-</style>
+
 <div align="right"> <img src="https://komarev.com/ghpvc/?username=fransualdo-lopes&label=Profile%20views&color=0e75b6&style=flat" alt="fransualdo-lopes" /> </div>
 
 <h1 align="center">Oi 👋, eu sou Fransualdo Lopes.🖥️💻</h1>
-<h3 align="center">Gosto de DevOps e programação.</h3>
+<h3 align="center">Gosto de DevOps e Programação.</h3>
 
 <div align="center">
   <a href="https://github.com/Fransualdo-Lopes">
@@ -14,8 +10,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fransualdo-Lopes&layout=compact&langs_count=7&theme=dracula"/>
  </div>
 <div align="center">
-    <ul role="list">
-      <li>🔭 Atualmente estou cursando Bacharelado de Sistemas de Informação na Universidade Federal Rural da Amazônia-(UFRA)</li>
+    <ul>
+      <li display-items:none>🔭 Atualmente estou cursando Bacharelado de Sistemas de Informação na Universidade Federal Rural da Amazônia-(UFRA)</li>
       <li>Iniciei estágio Remoto na empresa Compass Uol Tecnologia LTDA de forma Remota. (meio período)</li>
       <li>Trabalho de forma Presencial na empresa Alternativa Telecom LTDA. (meio período)</li>
     </ul>
