@@ -8,11 +8,11 @@
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Fransualdo-Lopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fransualdo-Lopes&layout=compact&langs_count=7&theme=dracula"/>
  </div>
-
-- 🔭 Atualmente estou cursando Bacharelado de Sistemas de Informação na Universidade Federal Rural da Amazônia-(UFRA)
-- Iniciei estágio Remoto na empresa Compass Uol Tecnologia LTDA de forma Remota. (meio período)
-- Trabalho de forma Presencial na empresa Alternativa Telecom LTDA. (meio período)
-
+<div align="center">
+    - 🔭 Atualmente estou cursando Bacharelado de Sistemas de Informação na Universidade Federal Rural da Amazônia-(UFRA)
+    - Iniciei estágio Remoto na empresa Compass Uol Tecnologia LTDA de forma Remota. (meio período)
+    - Trabalho de forma Presencial na empresa Alternativa Telecom LTDA. (meio período)
+</div>
 <h3 align="left">Conecte-se comigo:</h3>
 <div align="left">
 <a href="https://fb.com/https://www.facebook.com/fransualdoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/fransualdoc" height="30" width="40" /></a>
