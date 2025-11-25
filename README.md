@@ -10,8 +10,7 @@
  </div>
 <div align="center">
     <ul>
-       🔭 Atualmente estou cursando Bacharelado de Sistemas de Informação (último ano) na Universidade Federal Rural da Amazônia-UFRA<br>
-       finalizando estágio na empresa Compass Uol Tecnologia LTDA de forma Remota. (meio período)<br>
+     <br>
        Trabalho de forma Presencial na empresa Alternativa Telecom LTDA. (meio período)
     </ul>
 </div>
