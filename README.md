@@ -11,7 +11,7 @@
 <div align="center">
     <ul>
      <br>
-       Trabalho de forma Presencial na empresa Alternativa Telecom LTDA. (meio período)
+       Trabalho de forma Presencial na empresa Alternativa Telecom LTDA.
     </ul>
 </div>
 <h3 align="center">Conecte-se comigo:</h3>
@@ -50,7 +50,7 @@
   <img align="center" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
   <img align="center" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img align="center" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/> 
+  <!--<img align="center" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/> -->
   <img align="center" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>   
 </div>
 
