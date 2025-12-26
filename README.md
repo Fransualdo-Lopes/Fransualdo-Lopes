@@ -20,7 +20,7 @@ Automação completa para **bloqueio e desbloqueio de domínios via RPZ**,
 incluindo verificação e remoção de **domínios duplicados**, garantindo integridade do DNS.
 
 🔗 Repositório:  
-https://github.com/SEUUSUARIO/rpz-manager
+https://github.com/Fransualdo-Lopes/rpz-manager
 
 **Tecnologias:**  
 `Linux` · `Bind9` · `RPZ` · `Shell Script`
