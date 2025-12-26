@@ -58,7 +58,7 @@ https://github.com/SEUUSUARIO/ftp-ont-automation-huawei
 Disponível via GitHub / LinkedIn
 
 
-<h1 align="center">Oi 👋, eu sou Fransualdo Lopes.🖥️💻</h1>
+<h1 align="center">Who am I: 👋, eu sou Fransualdo Lopes.🖥️💻</h1>
 <h3 align="center">Gosto de DevOps e Programação.</h3>
 
 <!-- <div align="center">
