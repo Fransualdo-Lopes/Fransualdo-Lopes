@@ -1,6 +1,63 @@
 
 <div align="right"> <img src="https://komarev.com/ghpvc/?username=fransualdo-lopes&label=Profile%20views&color=0e75b6&style=flat" alt="fransualdo-lopes" /></div>
 
+
+# Network & ISP Automation Portfolio
+
+Olá! 👋  
+Sou profissional de TI com atuação em **ISP / NOC / Infraestrutura Linux**,
+focado em **automação de tarefas operacionais, DNS, OLT Huawei e otimização de processos**.
+
+Tenho experiência prática em ambientes de produção, trabalhando com
+**redes, servidores Linux, DNS, automações em shell e integração com equipamentos Huawei**.
+
+---
+
+## 🔧 Projetos em Destaque
+
+### 🟢 RPZ Manager – Automação de DNS para ISP
+Automação completa para **bloqueio e desbloqueio de domínios via RPZ**,
+incluindo verificação e remoção de **domínios duplicados**, garantindo integridade do DNS.
+
+🔗 Repositório:  
+https://github.com/SEUUSUARIO/rpz-manager
+
+**Tecnologias:**  
+`Linux` · `Bind9` · `RPZ` · `Shell Script`
+
+---
+
+### 🟢 Automação de Envio de Configuração para ONTs Huawei via FTP
+Solução para **envio massivo do arquivo XML (changeNCEURL.xml)** para ONTs
+registradas em OLT Huawei, integrando automaticamente com a
+plataforma **Wi-Fi Premium (NCE Home-Insight)**.
+
+🔗 Repositório:  
+https://github.com/SEUUSUARIO/ftp-ont-automation-huawei
+
+**Tecnologias:**  
+`OLT Huawei` · `FTP Server` · `XML` · `Linux`
+
+---
+
+## 🚧 Projetos em Desenvolvimento
+- **Smart OLT** – Camada inteligente para automação e gerenciamento de OLTs
+- Sistemas web (E-commerce, site institucional, gestão com IA)
+
+---
+
+## 🧠 Diferenciais
+- Automações usadas em **ambiente real de ISP**
+- Foco em **escala, confiabilidade e redução de tarefas manuais**
+- Experiência prática com **Huawei OLT / ONT**
+- Documentação clara e objetiva
+
+---
+
+📫 **Contato:**  
+Disponível via GitHub / LinkedIn
+
+
 <h1 align="center">Oi 👋, eu sou Fransualdo Lopes.🖥️💻</h1>
 <h3 align="center">Gosto de DevOps e Programação.</h3>
 
