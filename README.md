@@ -33,7 +33,7 @@ registradas em OLT Huawei, integrando automaticamente com a
 plataforma **Wi-Fi Premium (NCE Home-Insight)**.
 
 🔗 Repositório:  
-https://github.com/SEUUSUARIO/ftp-ont-automation-huawei
+https://github.com/Fransualdo-Lopes/ftp-ont-automation-huawei
 
 **Tecnologias:**  
 `OLT Huawei` · `FTP Server` · `XML` · `Linux`
@@ -42,7 +42,12 @@ https://github.com/SEUUSUARIO/ftp-ont-automation-huawei
 
 ## 🚧 Projetos em Desenvolvimento
 - **Smart OLT** – Camada inteligente para automação e gerenciamento de OLTs
+- DEPLOY: https://nori-olt-advanced-management.vercel.app/
+- REPO: https://github.com/Fransualdo-Lopes/NoriOLT-Advanced-Management
+  
 - Sistemas web (E-commerce, site institucional, gestão com IA)
+- DEPLOY: https://uol-furniro-e-commerce.vercel.app/
+- REPO: https://github.com/Fransualdo-Lopes/uol-furniro-e-commerce
 
 ---
 
