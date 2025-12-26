@@ -33,7 +33,7 @@ registradas em OLT Huawei, integrando automaticamente com a
 plataforma **Wi-Fi Premium (NCE Home-Insight)**.
 
 🔗 Repositório:  
-https://github.com/Fransualdo-Lopes/ftp-ont-automation-huawei
+EMBREVE...
 
 **Tecnologias:**  
 `OLT Huawei` · `FTP Server` · `XML` · `Linux`
