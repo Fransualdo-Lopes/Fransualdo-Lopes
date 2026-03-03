@@ -112,7 +112,7 @@ https://github.com/Fransualdo-Lopes/uol-furniro-e-commerce
 <div align="center">
 
 [LinkedIn](https://www.linkedin.com/in/fransualdolopes/)  
-[WhatsApp](https://api.whatsapp.com/send?phone=5591993057052)  
+[WhatsApp](https://api.whatsapp.com/send?phone=5591993512488)  
 Email: fransualdo.14@gmail.com  
 
 </div>
