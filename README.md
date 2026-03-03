@@ -5,19 +5,23 @@
 <h1 align="center">🚀 Fransualdo Lopes</h1>
 <h3 align="center">ISP Automation Engineer | NOC Analyst | Linux & Network Specialist</h3>
 
+<p align="center">
+  Automação • Infraestrutura • DNS • OLT Huawei • DevOps
+</p>
+
 ---
 
 ## 👨‍💻 Sobre mim
 
-Profissional de TI com atuação sólida em **ISP / NOC / Infraestrutura Linux**, focado em:
+Profissional de TI com forte atuação em **ISP / NOC / Infraestrutura Linux**, especializado em:
 
 - ⚙️ Automação de processos operacionais
-- 🌐 DNS avançado (RPZ, Bind9)
-- 📡 Integração com OLT Huawei
+- 🌐 DNS avançado (RPZ / Bind9)
+- 📡 Integração e automação com OLT Huawei
 - 🐧 Administração de servidores Linux
-- 🚀 Redução de tarefas manuais via Shell & Scripts
+- 🚀 Redução de tarefas manuais com Shell & Scripts
 
-> Minha missão: transformar operações repetitivas de ISP em processos inteligentes e escaláveis.
+> 🎯 Transformo operações repetitivas em processos inteligentes, escaláveis e confiáveis.
 
 ---
 
@@ -27,16 +31,13 @@ Profissional de TI com atuação sólida em **ISP / NOC / Infraestrutura Linux**
 
 ## 🟢 RPZ Manager — Automação de DNS para ISP
 
-Sistema completo para:
+✔ Bloqueio e desbloqueio automático via RPZ  
+✔ Remoção de domínios duplicados  
+✔ Validação de integridade do DNS  
+✔ Aplicado em ambiente real de ISP  
 
-✔ Bloqueio e desbloqueio de domínios via RPZ  
-✔ Detecção e remoção de domínios duplicados  
-✔ Validação automática de integridade do DNS  
-
-📌 Usado em ambiente real de ISP.
-
-🔗 Repositório:  
-https://github.com/Fransualdo-Lopes/rpz-manager
+🔗 **Repositório:**  
+https://github.com/Fransualdo-Lopes/rpz-manager  
 
 **Stack:** `Linux` · `Bind9` · `RPZ` · `Shell Script`
 
@@ -44,11 +45,10 @@ https://github.com/Fransualdo-Lopes/rpz-manager
 
 ## 🟢 Automação Massiva para ONTs Huawei
 
-Envio automatizado de `changeNCEURL.xml` para ONTs registradas na OLT.
-
+✔ Envio automatizado de `changeNCEURL.xml`  
 ✔ Integração com NCE Home-Insight  
-✔ Upload automático via FTP  
-✔ Redução drástica de intervenção manual  
+✔ Upload massivo via FTP  
+✔ Redução significativa de intervenção manual  
 
 **Stack:** `OLT Huawei` · `FTP Server` · `XML` · `Linux`
 
@@ -58,72 +58,79 @@ Envio automatizado de `changeNCEURL.xml` para ONTs registradas na OLT.
 
 Interface web para automação e gerenciamento de OLTs.
 
-🔗 Deploy:  
+🌐 **Deploy:**  
 https://nori-olt-advanced-management.vercel.app/
 
-🔗 Repositório:  
+📂 **Repositório:**  
 https://github.com/Fransualdo-Lopes/NoriOLT-Advanced-Management
 
 **Front-end:** `React` · `Vercel`  
-**Back-end:** (em definição)
+**Back-end:** Em evolução
 
 ---
 
 ## 🟢 Sistemas Web & Aplicações + IA
 
-- E-commerce
+### 🛒 E-commerce
+🌐 https://uol-furniro-e-commerce.vercel.app/  
+📂 https://github.com/Fransualdo-Lopes/uol-furniro-e-commerce  
 
-  🔗 Deploy:  
-https://uol-furniro-e-commerce.vercel.app/
+### ⛪ Sistema Institucional
+🌐 https://igreja-restaurar.vercel.app/  
+📂 https://github.com/Fransualdo-Lopes/Igreja-Restaurar  
 
-🔗 Repositório:  
-https://github.com/Fransualdo-Lopes/uol-furniro-e-commerce
-
-- Sistema institucional
-  🔗 Deploy:
-https://igreja-restaurar.vercel.app/
-
-https://github.com/Fransualdo-Lopes/Igreja-Restaurar.git
-  
 ---
 
 # 🧠 Diferenciais Técnicos
 
-✅ Automações aplicadas em ambiente real de ISP  
-✅ Experiência com Huawei OLT / ONT  
-✅ Monitoramento com Grafana & Zabbix  
-✅ Infraestrutura Linux em produção  
-✅ Documentação clara e objetiva  
-✅ Mentalidade DevOps aplicada a Telecom  
+- ✅ Automações aplicadas em ambiente real de ISP
+- ✅ Experiência com Huawei OLT / ONT
+- ✅ Monitoramento com Grafana & Zabbix
+- ✅ Infraestrutura Linux em produção
+- ✅ Mentalidade DevOps aplicada a Telecom
+- ✅ Documentação clara e objetiva
 
 ---
 
 # 🛠 Stack Principal
 
-### Infraestrutura & Redes
+### 🔹 Infraestrutura & Redes
 `Linux` · `Huawei OLT` · `Bind9` · `Nginx` · `Grafana` · `Zabbix`
 
-### DevOps & Cloud
+### 🔹 DevOps & Cloud
 `Docker` · `Kubernetes` · `Jenkins` · `AWS` · `Azure` · `GCP`
 
-### Desenvolvimento
+### 🔹 Desenvolvimento
 `Shell Script` · `Python` · `Java` · `C++` · `React`
+
+---
+
+# 📊 Estatísticas GitHub
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Fransualdo-Lopes&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fransualdo-Lopes&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 # 📫 Contato
 
-<div align="center">
-
-[LinkedIn](https://www.linkedin.com/in/fransualdolopes/)  
-[WhatsApp](https://api.whatsapp.com/send?phone=5591993512488)  
-Email: fransualdo.14@gmail.com  
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/fransualdolopes/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5591993512488">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="mailto:fransualdo.14@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-<h3 align="center">💡 “Automação não é luxo. É sobrevivência operacional.”</h3>
+<h3 align="center">💡 "Automação não é luxo. É sobrevivência operacional."</h3>
 
 
 <!--
