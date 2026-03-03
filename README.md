@@ -69,18 +69,22 @@ https://github.com/Fransualdo-Lopes/NoriOLT-Advanced-Management
 
 ---
 
-## 🟢 Sistemas Web & Aplicações
+## 🟢 Sistemas Web & Aplicações + IA
 
 - E-commerce
-- Sistema institucional
-- Projetos com IA
 
-🔗 Deploy:  
+  🔗 Deploy:  
 https://uol-furniro-e-commerce.vercel.app/
 
 🔗 Repositório:  
 https://github.com/Fransualdo-Lopes/uol-furniro-e-commerce
 
+- Sistema institucional
+  🔗 Deploy:
+https://igreja-restaurar.vercel.app/
+
+https://github.com/Fransualdo-Lopes/Igreja-Restaurar.git
+  
 ---
 
 # 🧠 Diferenciais Técnicos
