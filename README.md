@@ -1,4 +1,128 @@
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Fransualdo-Lopes&label=Profile%20Views&color=0e75b6&style=flat" />
+</div>
 
+<h1 align="center">🚀 Fransualdo Lopes</h1>
+<h3 align="center">ISP Automation Engineer | NOC Analyst | Linux & Network Specialist</h3>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Profissional de TI com atuação sólida em **ISP / NOC / Infraestrutura Linux**, focado em:
+
+- ⚙️ Automação de processos operacionais
+- 🌐 DNS avançado (RPZ, Bind9)
+- 📡 Integração com OLT Huawei
+- 🐧 Administração de servidores Linux
+- 🚀 Redução de tarefas manuais via Shell & Scripts
+
+> Minha missão: transformar operações repetitivas de ISP em processos inteligentes e escaláveis.
+
+---
+
+# 🔥 Projetos em Destaque
+
+---
+
+## 🟢 RPZ Manager — Automação de DNS para ISP
+
+Sistema completo para:
+
+✔ Bloqueio e desbloqueio de domínios via RPZ  
+✔ Detecção e remoção de domínios duplicados  
+✔ Validação automática de integridade do DNS  
+
+📌 Usado em ambiente real de ISP.
+
+🔗 Repositório:  
+https://github.com/Fransualdo-Lopes/rpz-manager
+
+**Stack:** `Linux` · `Bind9` · `RPZ` · `Shell Script`
+
+---
+
+## 🟢 Automação Massiva para ONTs Huawei
+
+Envio automatizado de `changeNCEURL.xml` para ONTs registradas na OLT.
+
+✔ Integração com NCE Home-Insight  
+✔ Upload automático via FTP  
+✔ Redução drástica de intervenção manual  
+
+**Stack:** `OLT Huawei` · `FTP Server` · `XML` · `Linux`
+
+---
+
+## 🟢 Smart OLT — Plataforma de Gerenciamento Inteligente
+
+Interface web para automação e gerenciamento de OLTs.
+
+🔗 Deploy:  
+https://nori-olt-advanced-management.vercel.app/
+
+🔗 Repositório:  
+https://github.com/Fransualdo-Lopes/NoriOLT-Advanced-Management
+
+**Front-end:** `React` · `Vercel`  
+**Back-end:** (em definição)
+
+---
+
+## 🟢 Sistemas Web & Aplicações
+
+- E-commerce
+- Sistema institucional
+- Projetos com IA
+
+🔗 Deploy:  
+https://uol-furniro-e-commerce.vercel.app/
+
+🔗 Repositório:  
+https://github.com/Fransualdo-Lopes/uol-furniro-e-commerce
+
+---
+
+# 🧠 Diferenciais Técnicos
+
+✅ Automações aplicadas em ambiente real de ISP  
+✅ Experiência com Huawei OLT / ONT  
+✅ Monitoramento com Grafana & Zabbix  
+✅ Infraestrutura Linux em produção  
+✅ Documentação clara e objetiva  
+✅ Mentalidade DevOps aplicada a Telecom  
+
+---
+
+# 🛠 Stack Principal
+
+### Infraestrutura & Redes
+`Linux` · `Huawei OLT` · `Bind9` · `Nginx` · `Grafana` · `Zabbix`
+
+### DevOps & Cloud
+`Docker` · `Kubernetes` · `Jenkins` · `AWS` · `Azure` · `GCP`
+
+### Desenvolvimento
+`Shell Script` · `Python` · `Java` · `C++` · `React`
+
+---
+
+# 📫 Contato
+
+<div align="center">
+
+[LinkedIn](https://www.linkedin.com/in/fransualdolopes/)  
+[WhatsApp](https://api.whatsapp.com/send?phone=5591993057052)  
+Email: fransualdo.14@gmail.com  
+
+</div>
+
+---
+
+<h3 align="center">💡 “Automação não é luxo. É sobrevivência operacional.”</h3>
+
+
+<!--
 <div align="right"> <img src="https://komarev.com/ghpvc/?username=fransualdo-lopes&label=Profile%20views&color=0e75b6&style=flat" alt="fransualdo-lopes" /></div>
 
 
@@ -15,7 +139,7 @@ Tenho experiência prática em ambientes de produção, trabalhando com
 
 ## 🔧 Projetos em Destaque
 
-### 🟢 RPZ Manager – Automação de DNS para ISP
+### PROJETO 01-🟢 RPZ Manager – Automação de DNS para ISP
 Automação completa para **bloqueio e desbloqueio de domínios via RPZ**,
 incluindo verificação e remoção de **domínios duplicados**, garantindo integridade do DNS.
 
@@ -41,14 +165,15 @@ EMBREVE...
 ---
 
 ## 🚧 Projetos em Desenvolvimento
+### PROJETO 02
+##FRONT-END:
 - **Smart OLT** – Camada inteligente para automação e gerenciamento de OLTs
 - DEPLOY: https://nori-olt-advanced-management.vercel.app/
 - REPO: https://github.com/Fransualdo-Lopes/NoriOLT-Advanced-Management
-  
-- Sistemas web (E-commerce, site institucional, gestão com IA)
-- DEPLOY: https://uol-furniro-e-commerce.vercel.app/
-- REPO: https://github.com/Fransualdo-Lopes/uol-furniro-e-commerce
 
+#BACK-END:#
+a definir...
+  
 ---
 
 ## 🧠 Diferenciais
@@ -58,6 +183,11 @@ EMBREVE...
 - Documentação clara e objetiva
 
 ---
+### PROJETO 03
+- Sistemas web (E-commerce, site institucional, gestão com IA)
+- DEPLOY: https://uol-furniro-e-commerce.vercel.app/
+- REPO: https://github.com/Fransualdo-Lopes/uol-furniro-e-commerce
+
 
 📫 **Contato:**  
 Disponível via GitHub / LinkedIn
@@ -110,6 +240,7 @@ Disponível via GitHub / LinkedIn
   <img align="center" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <!--<img align="center" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/> -->
+   <!--
   <img align="center" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>   
 </div>
-
+-->
