@@ -1,4 +1,92 @@
-<div align="right">
+<h1 align="center">Fransualdo Lopes</h1>
+
+<p align="center">
+  Infrastructure Engineer • ISP Automation • Linux Systems • Network Reliability
+</p>
+
+---
+
+## About
+
+Infrastructure professional with 9+ years of experience in production environments.
+
+Currently responsible for:
+
+- ISP infrastructure operations (NOC/TI)
+- Linux virtualized servers (70% GNU/Linux)
+- Network monitoring (Zabbix, Grafana)
+- ERP HUBsoft administration
+- Internal automation and operational optimization
+
+Focused on reliability, automation and scalable infrastructure design.
+
+---
+
+## Engineering Focus
+
+- Infrastructure as Code mindset
+- Linux Systems Administration
+- Network Observability
+- DNS & Routing Management
+- Production Environment Stability
+- Cloud Architecture (in evolution)
+
+---
+
+## Selected Projects
+
+### NoriOLT API
+REST API designed for OLT environment automation and integration.
+
+### GlobalBridge Platform
+Platform focused on communication and real-time interaction systems.
+
+### Simple Games (JavaScript DOM Practice)
+
+**Dice Game**  
+Deploy: https://fransualdo-lopes.github.io/dice_game/  
+Repository: https://github.com/Fransualdo-Lopes/dice_game  
+
+**Drum Kit**  
+Deploy: https://fransualdo-lopes.github.io/drum-kit/  
+Repository: https://github.com/Fransualdo-Lopes/drum-kit  
+
+---
+
+## Engineering Consistency
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fransualdo-Lopes&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Fransualdo-Lopes&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## Currently Improving
+
+- Advanced Cloud Architecture
+- DevOps Automation Pipelines
+- Distributed Systems Concepts
+- High Availability Infrastructure
+
+---
+
+## Contact
+
+LinkedIn: (add here)  
+Email: (professional email)
+
+---
+
+<p align="center">
+  <em>Building automation systems for real ISP production environments.</em>
+</p>
+
+
+<!--<div align="right">
   <img src="https://komarev.com/ghpvc/?username=Fransualdo-Lopes&label=Profile%20Views&color=0e75b6&style=flat" />
 </div>
 
@@ -186,4 +274,4 @@ https://github.com/Fransualdo-Lopes/drum-kit
 ---
 
 <h3 align="center">⚡ Automation is not optional. It is operational survival.</h3>
-
+-->
