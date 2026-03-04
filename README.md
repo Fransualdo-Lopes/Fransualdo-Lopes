@@ -1,4 +1,172 @@
+<h1 align="center">Fransualdo Lopes</h1>
 
+<p align="center">
+  Telecom Infrastructure Specialist  
+  ISP Automation • Linux Systems • OLT Operations • Network Reliability
+</p>
+
+<p align="center">
+  <strong>Operational Infrastructure Engineer in Real ISP Environment</strong>
+</p>
+
+---
+
+# 🧠 Professional Overview
+
+Telecom Infrastructure Specialist with 9+ years of experience operating inside production ISP environments.
+
+Responsible for maintaining Linux-based virtual infrastructure, DNS control systems, monitoring platforms and OLT operations.
+
+Focused on:
+
+- Operational reliability
+- Automation of repetitive telecom workflows
+- DNS integrity and traffic control
+- Infrastructure scalability
+- Service continuity
+
+---
+
+# 🛰 Telecom Engineering Projects
+
+## 🟢 RPZ Manager — DNS Automation
+
+Production-oriented DNS management system for ISP environments.
+
+✔ Domain block/unblock automation  
+✔ Duplicate detection  
+✔ RPZ structure validation  
+
+🔗 Repository  
+https://github.com/Fransualdo-Lopes/rpz-manager  
+
+Stack: `Linux` · `Bind9` · `Shell`
+
+---
+
+## 🟢 Huawei ONT Massive Configuration
+
+Automation of ONT provisioning using `changeNCEURL.xml`.
+
+✔ Reduced manual provisioning  
+✔ FTP workflow automation  
+✔ Integrated with Huawei OLT environment  
+
+Stack: `Huawei OLT` · `FTP` · `Linux`
+
+---
+
+## 🟢 Smart OLT — Intelligent OLT Management
+
+Web-based OLT management interface.
+
+🌐 Deploy  
+https://nori-olt-advanced-management.vercel.app/
+
+📂 Repository  
+https://github.com/Fransualdo-Lopes/NoriOLT-Advanced-Management
+
+Stack: `React` · `JavaScript`
+
+---
+
+# 🌐 Web Applications
+
+## 🛒 E-commerce Platform
+
+🌐 Deploy  
+https://uol-furniro-e-commerce.vercel.app/
+
+📂 Repository  
+https://github.com/Fransualdo-Lopes/uol-furniro-e-commerce  
+
+---
+
+## ⛪ Institutional System
+
+🌐 Deploy  
+https://igreja-restaurar.vercel.app/
+
+📂 Repository  
+https://github.com/Fransualdo-Lopes/Igreja-Restaurar  
+
+---
+
+# 🎮 Interactive Mini Projects
+
+## 🎲 Dice Game
+
+🌐 Deploy  
+https://fransualdo-lopes.github.io/dice_game/
+
+📂 Repository  
+https://github.com/Fransualdo-Lopes/dice_game  
+
+---
+
+## 🥁 Drum Kit
+
+🌐 Deploy  
+https://fransualdo-lopes.github.io/drum-kit/
+
+📂 Repository  
+https://github.com/Fransualdo-Lopes/drum-kit  
+
+---
+
+# 📊 Infrastructure & Observability
+
+Production monitoring mindset:
+
+- Zabbix
+- Grafana
+- Incident analysis
+- Operational response
+- Service uptime awareness
+
+---
+
+# 🛠 Technical Stack
+
+### Infrastructure
+`Linux` · `Huawei OLT` · `Bind9` · `Nginx` · `Grafana` · `Zabbix`
+
+### Automation
+`Shell` · `Python`
+
+### Development
+`React` · `JavaScript` · `Java` · `C++`
+
+---
+
+# 📈 Engineering Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fransualdo-Lopes&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Fransualdo-Lopes&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🎯 Currently Expanding Into
+
+- Telecom automation at scale
+- Infrastructure reliability engineering
+- High availability architecture
+- Cloud migration for ISP workloads
+
+---
+
+<p align="center">
+  <em>Telecom infrastructure is not about servers.  
+  It is about service continuity.</em>
+</p>
+
+
+<!--
 <h1 align="center">Fransualdo Lopes</h1>
 
 <p align="center">
