@@ -3,115 +3,145 @@
 </div>
 
 <h1 align="center">🚀 Fransualdo Lopes</h1>
-<h3 align="center">ISP Automation Engineer | NOC Analyst | Linux & Network Specialist</h3>
+<h3 align="center">ISP Automation Engineer | Network Operations | Linux Infrastructure</h3>
 
 <p align="center">
-  Automação • Infraestrutura • DNS • OLT Huawei • DevOps
+  Automating ISP Operations • DNS Engineering • OLT Integration • DevOps Mindset
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+# 🧠 Who I Am
 
-Profissional de TI com forte atuação em **ISP / NOC / Infraestrutura Linux**, especializado em:
+I am a Network & ISP Automation Specialist focused on transforming manual operational processes into scalable and reliable automation systems.
 
-- ⚙️ Automação de processos operacionais
-- 🌐 DNS avançado (RPZ / Bind9)
-- 📡 Integração e automação com OLT Huawei
-- 🐧 Administração de servidores Linux
-- 🚀 Redução de tarefas manuais com Shell & Scripts
+### 🎯 Core Focus
+- ISP Infrastructure Automation
+- Advanced DNS Engineering (RPZ / Bind9)
+- Huawei OLT / ONT Integration
+- Linux Production Environments
+- DevOps applied to Telecom Operations
 
-> 🎯 Transformo operações repetitivas em processos inteligentes, escaláveis e confiáveis.
-
----
-
-# 🔥 Projetos em Destaque
+> I build automation that reduces operational friction and increases infrastructure reliability.
 
 ---
 
-## 🟢 RPZ Manager — Automação de DNS para ISP
+# 🔥 ISP Engineering Projects
 
-✔ Bloqueio e desbloqueio automático via RPZ  
-✔ Remoção de domínios duplicados  
-✔ Validação de integridade do DNS  
-✔ Aplicado em ambiente real de ISP  
+---
 
-🔗 **Repositório:**  
+## 🟢 RPZ Manager — DNS Automation for ISP
+
+Complete automation system for DNS RPZ management.
+
+✔ Domain block/unblock via RPZ  
+✔ Duplicate domain detection  
+✔ DNS integrity validation  
+✔ Production-ready for ISP environment  
+
+🔗 Repository  
 https://github.com/Fransualdo-Lopes/rpz-manager  
 
 **Stack:** `Linux` · `Bind9` · `RPZ` · `Shell Script`
 
 ---
 
-## 🟢 Automação Massiva para ONTs Huawei
+## 🟢 Massive ONT Configuration Automation (Huawei)
 
-✔ Envio automatizado de `changeNCEURL.xml`  
-✔ Integração com NCE Home-Insight  
-✔ Upload massivo via FTP  
-✔ Redução significativa de intervenção manual  
+Automated deployment of `changeNCEURL.xml` to ONTs registered on OLT.
 
-**Stack:** `OLT Huawei` · `FTP Server` · `XML` · `Linux`
+✔ NCE Home-Insight integration  
+✔ Automated FTP deployment  
+✔ Significant manual workload reduction  
+
+**Stack:** `Huawei OLT` · `FTP Server` · `XML` · `Linux`
 
 ---
 
-## 🟢 Smart OLT — Plataforma de Gerenciamento Inteligente
+## 🟢 Smart OLT — Intelligent OLT Management Platform
 
-Interface web para automação e gerenciamento de OLTs.
+Web interface for managing and automating OLT environments.
 
-🌐 **Deploy:**  
+🌐 Deploy  
 https://nori-olt-advanced-management.vercel.app/
 
-📂 **Repositório:**  
+📂 Repository  
 https://github.com/Fransualdo-Lopes/NoriOLT-Advanced-Management
 
-**Front-end:** `React` · `Vercel`  
-**Back-end:** Em evolução
+**Front-end:** `React`  
+**Back-end:** In evolution  
 
 ---
 
-## 🟢 Sistemas Web & Aplicações + IA
-
-### 🛒 E-commerce
-🌐 **Deploy:**  
- https://uol-furniro-e-commerce.vercel.app/  
-
-🔗 **Repositório:**  
-📂 https://github.com/Fransualdo-Lopes/uol-furniro-e-commerce  
-
-### ⛪ Sistema Institucional
-🌐 **Deploy:** 
-🌐 https://igreja-restaurar.vercel.app/  
-
-🔗 **Repositório:** 
-📂 https://github.com/Fransualdo-Lopes/Igreja-Restaurar  
+# 🌐 Web Systems & Applications
 
 ---
 
-# 🧠 Diferenciais Técnicos
+## 🛒 E-commerce Platform
 
-- ✅ Automações aplicadas em ambiente real de ISP
-- ✅ Experiência com Huawei OLT / ONT
-- ✅ Monitoramento com Grafana & Zabbix
-- ✅ Infraestrutura Linux em produção
-- ✅ Mentalidade DevOps aplicada a Telecom
-- ✅ Documentação clara e objetiva
+🌐 Deploy  
+https://uol-furniro-e-commerce.vercel.app/
+
+📂 Repository  
+https://github.com/Fransualdo-Lopes/uol-furniro-e-commerce  
 
 ---
 
-# 🛠 Stack Principal
+## ⛪ Institutional System
 
-### 🔹 Infraestrutura & Redes
+🌐 Deploy  
+https://igreja-restaurar.vercel.app/
+
+📂 Repository  
+https://github.com/Fransualdo-Lopes/Igreja-Restaurar  
+
+---
+
+# 🎮 Front-End Mini Projects (Interactive)
+
+These projects demonstrate DOM manipulation, event handling and JavaScript logic.
+
+---
+
+## 🎲 Dice Game
+
+Simple dynamic dice game.  
+Refresh the page to play.
+
+🌐 Deploy  
+https://fransualdo-lopes.github.io/dice_game/
+
+📂 Repository  
+https://github.com/Fransualdo-Lopes/dice_game  
+
+---
+
+## 🥁 Drum Kit (Keyboard Controlled)
+
+Interactive drum kit playable via keyboard.
+
+🌐 Deploy  
+https://fransualdo-lopes.github.io/drum-kit/
+
+📂 Repository  
+https://github.com/Fransualdo-Lopes/drum-kit  
+
+---
+
+# 🛠 Technical Stack
+
+## 🔹 Infrastructure & Networking
 `Linux` · `Huawei OLT` · `Bind9` · `Nginx` · `Grafana` · `Zabbix`
 
-### 🔹 DevOps & Cloud
+## 🔹 DevOps & Cloud
 `Docker` · `Kubernetes` · `Jenkins` · `AWS` · `Azure` · `GCP`
 
-### 🔹 Desenvolvimento
-`Shell Script` · `Python` · `Java` · `C++` · `React`
+## 🔹 Development
+`Shell Script` · `Python` · `Java` · `C++` · `React` · `JavaScript`
 
 ---
 
-# 📊 Estatísticas GitHub
+# 📊 GitHub Analytics
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Fransualdo-Lopes&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -120,7 +150,18 @@ https://github.com/Fransualdo-Lopes/NoriOLT-Advanced-Management
 
 ---
 
-# 📫 Contato
+# 💼 Professional Strengths
+
+- Production-level ISP automation
+- Real-world Huawei OLT integration
+- DNS Engineering with RPZ
+- Linux infrastructure management
+- Operational efficiency mindset
+- Clear technical documentation
+
+---
+
+# 📫 Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fransualdolopes/">
@@ -136,7 +177,7 @@ https://github.com/Fransualdo-Lopes/NoriOLT-Advanced-Management
 
 ---
 
-<h3 align="center">💡 "Automação não é luxo. É sobrevivência operacional."</h3>
+<h3 align="center">⚡ Automation is not a luxury. It is operational survival.</h3>
 
 
 <!--
