@@ -138,22 +138,10 @@ https://github.com/Fransualdo-Lopes/drum-kit
 
 ---
 
-# 📈 GitHub Analytics
-
-# 📈 GitHub Analytics
+# 📊 GitHub Activity
 
 <p align="center">
-  <img 
-    height="165em" 
-    src="https://github-readme-stats.vercel.app/api?username=Fransualdo-Lopes&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    height="165em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fransualdo-Lopes&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fransualdo-Lopes&theme=tokyonight"/>
 </p>
 
 ---
