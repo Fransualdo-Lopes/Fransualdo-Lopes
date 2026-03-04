@@ -145,6 +145,30 @@ https://github.com/Fransualdo-Lopes/drum-kit
 </p>
 
 ---
+# 📊 Engineering Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fransualdo-Lopes&theme=github_dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fransualdo-Lopes&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fransualdo-Lopes&theme=github_dark"/>
+</p>
+
+---
+# 🚀 GitHub Performance
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Fransualdo-Lopes&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fransualdo-Lopes&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Fransualdo-Lopes&theme=tokyonight&hide_border=true"/>
+</p>
+---
+
 
 # 🎯 Currently Improving
 
