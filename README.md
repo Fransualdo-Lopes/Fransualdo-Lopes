@@ -1,3 +1,113 @@
+
+<h1 align="center">Fransualdo Lopes</h1>
+
+<p align="center">
+  Infrastructure & Reliability Engineer  
+  Telecom | ISP Automation | Linux Systems | Production Environments
+</p>
+
+---
+
+## Professional Positioning
+
+Infrastructure Engineer operating in real ISP production environments.
+
+9+ years working with:
+
+- Linux-based virtualized servers
+- Network monitoring & observability
+- DNS and routing control
+- ERP and operational systems
+- OLT infrastructure management
+- Automation of repetitive operational workflows
+
+Focused on reliability, operational efficiency and infrastructure scalability.
+
+---
+
+## Core Competencies
+
+### Infrastructure & Systems
+- Linux Administration (Production)
+- Virtualization Environments
+- DNS (Bind9 / RPZ)
+- Network Monitoring (Zabbix / Grafana)
+- Nginx
+- OLT Operations (Huawei)
+
+### Reliability & Automation
+- Operational automation (Shell / scripting)
+- Process optimization inside ISP environments
+- Incident response mindset
+- Service continuity and availability thinking
+- Monitoring-driven decisions
+
+### DevOps & Cloud (In Progress Evolution)
+- Docker
+- CI/CD concepts
+- Infrastructure as Code principles
+- Cloud architecture foundations
+
+---
+
+## Engineering Philosophy
+
+I work directly in operational environments where downtime impacts real customers.
+
+My focus:
+- Reduce manual workload
+- Increase system predictability
+- Improve operational reliability
+- Build scalable infrastructure foundations
+
+---
+
+## Selected Work
+
+### OLT Automation & ONT Mass Configuration
+Automation processes reducing manual provisioning effort inside telecom operations.
+
+### DNS RPZ Management System
+Structured DNS control for domain filtering and automation inside ISP environment.
+
+### Internal Infrastructure Optimization
+Virtual server management and operational tooling improvements.
+
+---
+
+## Engineering Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fransualdo-Lopes&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Fransualdo-Lopes&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## Currently Expanding Into
+
+- Cloud-native infrastructure
+- Advanced DevOps pipelines
+- Distributed systems reliability
+- High availability design patterns
+
+---
+
+## Open To
+
+Remote infrastructure roles  
+DevOps / Reliability positions  
+Telecom automation projects  
+
+---
+
+<p align="center">
+  <em>Automation is not optional. It is operational survival.</em>
+</p>
+
 <!--<h1 align="center">Fransualdo Lopes</h1>
 
 <p align="center">
