@@ -72,11 +72,17 @@ https://github.com/Fransualdo-Lopes/NoriOLT-Advanced-Management
 ## 🟢 Sistemas Web & Aplicações + IA
 
 ### 🛒 E-commerce
-🌐 https://uol-furniro-e-commerce.vercel.app/  
+🌐 **Deploy:**  
+ https://uol-furniro-e-commerce.vercel.app/  
+
+🔗 **Repositório:**  
 📂 https://github.com/Fransualdo-Lopes/uol-furniro-e-commerce  
 
 ### ⛪ Sistema Institucional
+🌐 **Deploy:** 
 🌐 https://igreja-restaurar.vercel.app/  
+
+🔗 **Repositório:** 
 📂 https://github.com/Fransualdo-Lopes/Igreja-Restaurar  
 
 ---
