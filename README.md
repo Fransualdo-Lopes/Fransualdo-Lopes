@@ -13,7 +13,7 @@
 
 # 🧠 Professional Overview
 
-Telecom Infrastructure Specialist with 9+ years of experience operating inside production ISP environments.
+Telecom Infrastructure Specialist with 4+ years of experience operating inside production ISP environments.
 
 Responsible for maintaining Linux-based virtual infrastructure, DNS control systems, monitoring platforms and OLT operations.
 
